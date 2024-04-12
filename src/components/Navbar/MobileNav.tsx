@@ -365,18 +365,22 @@ const MobileNav = () => {
             <SheetTitle>   
             <DropdownMenu>
                 <DropdownMenuTrigger className="flex flex-row gap-2 items-center justify-center">Our Services <ChevronDown className="mt-0.5" size='16px' /></DropdownMenuTrigger>
-                <DropdownMenuContent className=" overflow-auto grid grid-cols-2 gap-2  py-9  p-2  justify-between px-4 outline-none w-screen h-screen ">
+                <DropdownMenuContent className=" overflow-auto flex flex-row gap-2  py-9  p-2  justify-between px-4 outline-none w-screen h-screen ">
                   <div className="flex w-full justify-between">
+                  <div className="bg-[#7c3aed] h-full rounded-full mx-2 w-[4.5px]"></div>
                     <div className="text-full text-left w-full">
-
+                
                       {data.map((item, index): any => (
                         <div key={index} className="!text-left">
+                          
                           <DropdownMenuItem
                             onMouseEnter={() => handleMouseEnter(item.description)}
                             key={index}
                             className="p-2 px-3 cursor-pointer h-fit flex flex-col w-full text-left relative opacity-100"
                           >
+                            
                             <Link href={item.link} className="w-full text-left">
+                              
                               <Link href={item.link}>{item.title}</Link>
                             </Link>
                           </DropdownMenuItem>
@@ -384,14 +388,10 @@ const MobileNav = () => {
                       ))}
                     </div>
 
-                    <div className="bg-[#7c3aed] h-full rounded-full mx-2 w-[4.5px]"></div>
+                    
 
                   </div>
-                  <div className=" "> 
-                    {showDescription && (
-                      <p>{showDescription}</p>
-                    )}
-                  </div>
+          
                 </DropdownMenuContent>
               </DropdownMenu>
             </SheetTitle>
