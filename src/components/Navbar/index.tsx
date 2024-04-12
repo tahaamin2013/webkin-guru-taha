@@ -368,7 +368,7 @@ const Navbar = () => {
             })}>
               <DropdownMenu>
                 <DropdownMenuTrigger className="flex flex-row gap-2 items-center justify-center">Our Services <ChevronDown className="mt-0.5" size='16px' /></DropdownMenuTrigger>
-                <DropdownMenuContent className="mt-[16px] grid grid-cols-3 gap-2  py-9  p-2  justify-between px-4 outline-none w-screen h-screen ">
+                <DropdownMenuContent className="mt-[16px] overflow-y-auto grid grid-cols-3 gap-2  py-9  p-2  justify-between px-4 outline-none w-screen h-screen ">
                   <div className="flex w-full justify-between">
                     <div className="text-full text-left w-full">
 
