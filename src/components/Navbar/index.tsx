@@ -373,7 +373,7 @@ const Navbar = () => {
                     <div className="text-full text-left w-full">
 
                       {data.map((item, index): any => (
-                        <div className="!text-left">
+                        <div key={index} className="!text-left">
                           <DropdownMenuItem
                             onMouseEnter={() => handleMouseEnter(item.description)}
                             key={index}
