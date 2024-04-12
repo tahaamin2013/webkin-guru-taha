@@ -34,7 +34,7 @@ const Navbar = () => {
         <div className="flex flex-col">
           <Link className="hover:bg-[#7c3aed23] w-full cursor-pointer rounded-lg p-[10px] transition-all duration-100" href="/page">
             <h1 className="font-bold">Wireframing and Prototyping</h1>
-            <p className="text-[13px]">Creating wireframes and prototypes to visualize the website's layout, structure, and user flow before development begins.</p>
+            <p className="text-[13px]">Creating wireframes and prototypes to visualize the website&apos;s layout, structure, and user flow before development begins.</p>
           </Link>
           <Link className="hover:bg-[#7c3aed23] w-full cursor-pointer rounded-lg p-[10px] transition-all duration-100" href="/page">
             <h1 className="font-bold">Responsive Design</h1>
@@ -50,7 +50,7 @@ const Navbar = () => {
           </Link>
           <Link className="hover:bg-[#7c3aed23] w-full cursor-pointer rounded-lg p-[10px] transition-all duration-100" href="/page">
             <h1 className="font-bold">Website Design</h1>
-            <p className="text-[13px]">Crafting visually appealing and user-friendly website designs tailored to your clients' brand identity and target audience.</p>
+            <p className="text-[13px]">Crafting visually appealing and user-friendly website designs tailored to your clients&apos; brand identity and target audience.</p>
           </Link>
           <Link className="hover:bg-[#7c3aed23] w-full cursor-pointer rounded-lg p-[10px] transition-all duration-100" href="/page">
             <h1 className="font-bold">User Experience (UX) Design</h1>
@@ -148,7 +148,7 @@ const Navbar = () => {
 
           <Link className="hover:bg-[#7c3aed23] w-full cursor-pointer rounded-lg p-[10px] transition-all duration-100" href="/page">
             <h1 className="font-bold">iOS App Development</h1>
-            <p className="text-[13px]">Specializing in creating applications specifically for Apple's iOS platform</p>
+            <p className="text-[13px]">Specializing in creating applications specifically for Apple&apos;s iOS platform</p>
           </Link>
 
           <Link className="hover:bg-[#7c3aed23] w-full cursor-pointer rounded-lg p-[10px] transition-all duration-100" href="/page">
@@ -309,7 +309,7 @@ const Navbar = () => {
           
           <Link className="hover:bg-[#7c3aed23] w-full cursor-pointer rounded-lg p-[10px] transition-all duration-100" href="/page">
             <h1 className="font-bold">QuickBooks Customization</h1>
-            <p className="text-[13px]">Customize QuickBooks settings and reports to match the specific requirements of clients' businesses.</p>
+            <p className="text-[13px]">Customize QuickBooks settings and reports to match the specific requirements of clients&apos; businesses.</p>
           </Link>
           
           <Link className="hover:bg-[#7c3aed23] w-full cursor-pointer rounded-lg p-[10px] transition-all duration-100" href="/page">
@@ -416,7 +416,7 @@ const Navbar = () => {
                   variant: "ghost",
                 })}
               >
-                Let's Talk <MessagesSquare className="w-5 h-5 ml-2" />
+                Let&apos;s Talk <MessagesSquare className="w-5 h-5 ml-2" />
               </Button>
             </Link>
           </div>
