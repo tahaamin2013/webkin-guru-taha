@@ -47,10 +47,24 @@ const AboutUs: React.FC = () => {
             high-quality custom <br /> services designed to help you build,
             grow, and revolutionize your business.
           </p>
-          <button className="group text-white bg-primary hover:border-2 hover:bg-transparent transition-all duration-300 hover:border-primary justify-between  hover:text-black rounded-full px-5 py-4 flex items-center gap-9 font-bold">
+          <button className="group text-white bg-primary hover:border-2 hover:bg-transparent transition-all duration-300 hover:border-primary w-fit justify-between  hover:text-black rounded-full px-5 py-4 flex items-center gap-9 font-bold">
             Learn More
             <div className="mt-0.5 p-1 bg-white rounded-full group-hover:bg-black transition-all duration-300"></div>
           </button>
+        </div>
+        <div className="flex flex-col items-center md:flex-row gap-14">
+          <img src="./b.jpg" className="rounded-xl mt-[50px]" alt="" />
+          <div className="flex flex-col gap-[30px]">
+            <div>
+              <h1 className="font-bold text-5xl text-primary">3,000+</h1>
+              <p className="font-bold text-zinc-500">Successful projects</p>
+            </div>
+            <hr />
+            <div>
+              <h1 className="font-bold text-5xl text-primary">99%</h1>
+              <p className="font-bold text-zinc-500">Client satisifcation</p>
+            </div>
+          </div>
         </div>
       </div>
     </section>
