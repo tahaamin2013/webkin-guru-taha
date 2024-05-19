@@ -352,24 +352,20 @@ const MobileNav = () => {
 
   return (
     <div className="sm:hidden">
-
-
-
       <Sheet>
-        <SheetTrigger>   <Menu
-
+        <SheetTrigger> 
+          <Menu
           className="relative z-50 h-5 w-5 text-zinc-700"
-        /></SheetTrigger>
+        />
+        </SheetTrigger>
         <SheetContent className="text-left">
           <SheetHeader className="w-full text-left">
             <SheetTitle>   
             <DropdownMenu>
                 <DropdownMenuTrigger className="flex flex-row gap-2 items-center justify-center">Our Services <ChevronDown className="mt-0.5" size='16px' /></DropdownMenuTrigger>
-                <DropdownMenuContent className=" overflow-auto flex flex-row gap-2  py-9  p-2  justify-between outline-none w-screen h-screen ">
+                <DropdownMenuContent className=" overflow-auto flex flex-row gap-2  py-9  p-2  justify-between outline-none ml-[140px] h-fit ">
                   <div className="flex w-full justify-between">
-                  <div className="bg-[#7c3aed] h-full rounded-full mr-3 w-[4.5px]"></div>
                     <div className="text-full text-left w-full">
-                
                       {data.map((item, index): any => (
                         <div key={index} className="!text-left">
                           
@@ -386,9 +382,7 @@ const MobileNav = () => {
                           </DropdownMenuItem>
                         </div>
                       ))}
-                    </div>
-
-                    
+                    </div>                
 
                   </div>
           
