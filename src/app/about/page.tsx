@@ -3,8 +3,8 @@ import React from "react";
 const AboutUs: React.FC = () => {
   return (
     <section>
-      <div className="flex justify-between items-center flex-row  py-3 px-[50px]">
-        <h1 className="text-5xl font-bold">
+      <div className="flex justify-between items-center flex-col md:flex-row  py-3 px-[50px]">
+        <h1 className="text-3xl mb-2 md:text-5xl font-bold">
           Our Journey to a leading{" "}
           <p className="text-primary">
             Software Development <br /> Partner
@@ -20,7 +20,7 @@ const AboutUs: React.FC = () => {
           />
         </div>
       </div>
-      <div className="bg-[#251249] py-[70px] px-60 font-bold text-white text-4xl flex flex-col">
+      <div className="bg-[#211041] py-[70px] px-3 lg:px-60 font-bold text-white text-4xl flex flex-col">
         <button className="text-black w-fit px-5 py-2 rounded-lg text-xl bg-white">
           Our Mission
         </button>
