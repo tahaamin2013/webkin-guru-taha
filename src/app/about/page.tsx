@@ -20,7 +20,7 @@ const AboutUs: React.FC = () => {
           />
         </div>
       </div>
-      <div className="bg-[#211041] py-[70px] px-3 lg:px-60 font-bold text-white text-4xl flex flex-col">
+      <div className="bg-[#211041] leading-[42px] py-[70px] px-3 lg:px-60 font-bold text-white text-4xl flex flex-col">
         <button className="text-black w-fit px-5 py-2 rounded-lg text-xl bg-white">
           Our Mission
         </button>
@@ -30,7 +30,7 @@ const AboutUs: React.FC = () => {
           to
           <span className="text-primary"> power their growth</span> by unlocking
           access to passionate and experienced
-          <span className="text-primary">engineers and solution providers</span>
+          <span className="text-primary"> engineers and solution providers</span>
         </div>
       </div>
       <div className="px-5 md:px-[120px] mt-3">
