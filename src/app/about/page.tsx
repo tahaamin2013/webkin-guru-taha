@@ -111,7 +111,7 @@ const AboutUs: React.FC = () => {
               </p>
             </div>
             <div>
-              <div className="md:flex justify-center items-center hidden">
+              <div className="flex justify-center items-center">
                 <div className="values-image object-contain">
                   <div className="bg-[#00d5b9] opacity-[.24] rounded-full w-[300px] h-[300px] absolute  blur-2xl"></div>
                   <img src="./idea.webp" loading="lazy" width={280} alt="" />
