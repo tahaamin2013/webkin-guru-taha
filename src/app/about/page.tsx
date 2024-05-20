@@ -30,7 +30,10 @@ const AboutUs: React.FC = () => {
           to
           <span className="text-primary"> power their growth</span> by unlocking
           access to passionate and experienced
-          <span className="text-primary"> engineers and solution providers</span>
+          <span className="text-primary">
+            {" "}
+            engineers and solution providers
+          </span>
         </div>
       </div>
       <div className="px-5 md:px-[120px] mt-3">
@@ -52,7 +55,7 @@ const AboutUs: React.FC = () => {
             <div className="mt-0.5 p-1 bg-white rounded-full group-hover:bg-black transition-all duration-300"></div>
           </button>
         </div>
-        <div className="flex flex-col items-center md:flex-row gap-14">
+        <div className="flex flex-col items-center xl:flex-row gap-14">
           <img src="./b.jpg" className="rounded-xl mt-[50px]" alt="" />
           <div className="flex flex-col gap-[30px]">
             <div>
@@ -216,6 +219,54 @@ const AboutUs: React.FC = () => {
               </p>
             </div>
             <div></div>
+          </div>
+        </div>
+        <div className="mt-9">
+          <div className="flex mb-5 justify-between flex-col sm:flex-row">
+            <h1 className="font-bold text-4xl text-[#1f1038] md:mb-0 mb-5">
+              Leadership Team
+            </h1>
+            <p className="text-zinc-500">
+              Meet the driving force, the dreamers, the minds behind crafting a
+              cutting-edge <br /> software development company, aka, Devsinc.
+            </p>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 justify-center items-center lg:grid-cols-3 xl:grid-cols-4">
+            <div className="flex flex-col gap-3">
+              <img src="./IMG_3364.JPG" className="rounded-t-xl" alt="" />
+              <div>
+                <h1 className="text-2xl">Taha Amin</h1>
+                <p className="text-zinc-500">Chief Finance Officer</p>
+              </div>
+            </div>
+            <div className="flex flex-col gap-3">
+              <img src="./IMG_3364.JPG" className="rounded-t-xl" alt="" />
+              <div>
+                <h1 className="text-2xl">Taha Amin</h1>
+                <p className="text-zinc-500">Chief of Staff</p>
+              </div>
+            </div>
+            <div className="flex flex-col gap-3">
+              <img src="./IMG_3364.JPG" className="rounded-t-xl" alt="" />
+              <div>
+                <h1 className="text-2xl">Taha Amin</h1>
+                <p className="text-zinc-500">Chief Delivery Officer</p>
+              </div>
+            </div>
+            <div className="flex flex-col gap-3">
+              <img src="./IMG_3364.JPG" className="rounded-t-xl" alt="" />
+              <div>
+                <h1 className="text-2xl">Taha Amin</h1>
+                <p className="text-zinc-500">Chief Business Officer</p>
+              </div>
+            </div>
+            <div className="flex flex-col gap-3">
+              <img src="./IMG_3364.JPG" className="rounded-t-xl" alt="" />
+              <div>
+                <h1 className="text-2xl">Taha Amin</h1>
+                <p className="text-zinc-500">Head of New Markets </p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
