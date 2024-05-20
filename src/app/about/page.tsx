@@ -43,9 +43,9 @@ const AboutUs: React.FC = () => {
         </h1>
         <div className="flex flex-col md:flex-row justify-between">
           <p className="text-md mt-2 text-zinc-700 font-sans">
-            We’ve been helping customers since 2009 and take pride in delivering
-            high-quality custom <br /> services designed to help you build,
-            grow, and revolutionize your business.
+            We&apos;ve been helping customers since 2009 and take pride in
+            delivering high-quality custom <br /> services designed to help you
+            build, grow, and revolutionize your business.
           </p>
           <button className="group text-white bg-primary hover:border-2 hover:bg-transparent transition-all duration-300 hover:border-primary w-fit justify-between  hover:text-black rounded-full px-5 py-4 flex items-center gap-9 font-bold">
             Learn More
@@ -105,9 +105,9 @@ const AboutUs: React.FC = () => {
             <div className="mt-5">
               <h1 className="font-bold text-5xl mb-4">Innovation</h1>
               <p className="text-md mt-2 text-zinc-600 font-sans">
-                There’s no use in pushing boundaries if it’s not for innovation.
-                As a software development company, we make the future a reality
-                today.
+                There&apos;s no use in pushing boundaries if it&apos;s not for
+                innovation. As a software development company, we make the
+                future a reality today.
               </p>
             </div>
             <div>
@@ -178,8 +178,8 @@ const AboutUs: React.FC = () => {
             <div className="mt-5">
               <h1 className="font-bold text-5xl mb-4">Transparency</h1>
               <p className="text-md mt-2 text-zinc-600 font-sans">
-                Fostering a culture of transparency is Devsinc’s forte for its
-                resilient clients. It has helped maintain a productive and
+                Fostering a culture of transparency is Devsinc&apos;s forte for
+                its resilient clients. It has helped maintain a productive and
                 qualitative relationship between the two.
               </p>
             </div>
@@ -227,7 +227,6 @@ const AboutUs: React.FC = () => {
             <div></div>
           </div>
         </div>
-      
       </div>
     </section>
   );
