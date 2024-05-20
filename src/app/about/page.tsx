@@ -279,11 +279,11 @@ const AboutUs: React.FC = () => {
       </div>
       <div className="bg-primary mt-3 text-white py-[40px] px-2 md:px-[100px] flex flex-col justify-center items-center ">
         <h1 className="font-bold text-3xl md:text-5xl text-center mb-4">
-          We've helped our clients complete +3,000 <br /> projects
+          We&lsquo;ve helped our clients complete +3,000 <br /> projects
         </h1>
         <p className="text-lg font-sans">
-          Over the last 14 years, we've been driven by our passion for helping
-          clients achieve their goals.
+          Over the last 14 years, we&lsquo;ve been driven by our passion for
+          helping clients achieve their goals.
         </p>
         <Carousel className="w-full max-w-5xl text-black mt-3">
           <CarouselContent className="-ml-1 ">
