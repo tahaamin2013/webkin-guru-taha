@@ -66,6 +66,219 @@ const AboutUs: React.FC = () => {
             </div>
           </div>
         </div>
+        <div className="grid grid-cols-1 mt-6 items-center md:grid-cols-2 justify-between">
+          <div>
+            <img src="./taha2.png" width="330px" alt="" />
+          </div>
+          <div className="flex flex-col gap-4">
+            <p className="text-primary">
+              When you choose Devsinc, you're choosing
+            </p>
+            <h1 className="text-7xl font-bold text-[#1f1038]">Our Vision</h1>
+            <p className="text-zinc-700">
+              "While Devsinc has been growing in a tech landscape for more than
+              a decade, I recognize the challenges businesses face in managing
+              digital systems. As the world transforms into a global village,
+              our vision goes beyond. We aim to reimagine IT solutions into
+              smart, agile, and AI-enhanced digital assets. '
+            </p>
+            <p className="text-zinc-700">
+              Our commitment is to lead in the digital transformation, providing
+              globally agile services to clients in different countries. In
+              these times of recent changes, our ever-growing pool of resilient
+              tech heads drives the IT world toward a future where innovation
+              meets the demands of an ever-evolving digital era."
+            </p>
+          </div>
+        </div>
+        <div className="mt-4">
+          <button className="rounded-sm  py-1 text-black text-md px-2 border-2 border-primary">
+            Our Values
+          </button>
+          <div className="grid grid-cols-1 md:grid-cols-2 md:border-0 border shadow-xl rounded-lg md:shadow-none bg-white p-4 mt-3 mb-3 mx-3 md:p-0 md:bg-transparent   justify-between items-center">
+            <div className="flex justify-center items-center md:hidden">
+              <div className="values-image object-contain">
+                <div className="bg-[#00d5b9] opacity-[.24] rounded-full w-[300px] h-[300px] absolute  blur-2xl"></div>
+                <img src="./idea.webp" loading="lazy" width={280} alt="" />
+              </div>
+            </div>
+            <div className="mt-5">
+              <h1 className="font-bold text-5xl mb-4">Innovation</h1>
+              <p className="text-md mt-2 text-zinc-600 font-sans">
+                There’s no use in pushing boundaries if it’s not for innovation.
+                As a software development company, we make the future a reality
+                today.
+              </p>
+            </div>
+            <div>
+              <div className="md:flex justify-center items-center hidden">
+                <div className="values-image object-contain">
+                  <div className="bg-[#00d5b9] opacity-[.24] rounded-full w-[300px] h-[300px] absolute  blur-2xl"></div>
+                  <img src="./idea.webp" loading="lazy" width={280} alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="mt-4">
+          <div className="grid grid-cols-1 md:grid-cols-2 md:border-0 border shadow-xl rounded-lg md:shadow-none bg-white p-4 mt-3 mb-3 mx-3 md:p-0 md:bg-transparent   justify-between items-center">
+            {" "}
+            <div className="flex justify-center items-center">
+              <div className="values-image object-contain">
+                <div className="bg-[#00d5b9] opacity-[.24] rounded-full w-[300px] h-[300px] absolute  blur-2xl"></div>
+                <img src="./re.webp" loading="lazy" width={280} alt="" />
+              </div>
+            </div>
+            <div className="mt-5">
+              <h1 className="font-bold text-5xl mb-4">Adaptability</h1>
+              <p className="text-md mt-2 text-zinc-600 font-sans">
+                Our determination fuels relentless pursuit, turning challenges
+                into triumphs. It propels tech experts at Devsinc to overcome
+                obstacles and achieve success against all odds.
+              </p>
+            </div>
+            <div></div>
+          </div>
+        </div>
+        <div className="mt-4">
+          <div className="grid grid-cols-1 md:grid-cols-2 md:border-0 border shadow-xl rounded-lg md:shadow-none bg-white p-4 mt-3 mb-3 mx-3 md:p-0 md:bg-transparent   justify-between items-center">
+            {" "}
+            <div className="mt-5">
+              <h1 className="font-bold text-5xl mb-4">Tenacity</h1>
+              <p className="text-md mt-2 text-zinc-600 font-sans">
+                Our determination fuels relentless pursuit, turning challenges
+                into triumphs. It propels tech experts at Devsinc to overcome
+                obstacles and achieve success against all odds.
+              </p>
+            </div>
+            <div>
+              <div className="flex justify-center items-center">
+                <div className="values-image object-contain">
+                  <div className="bg-[#00d5b9] opacity-[.24] rounded-full w-[300px] h-[300px] absolute  blur-2xl"></div>
+                  <img src="./fast.webp" loading="lazy" width={280} alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="mt-4">
+          <div className="grid grid-cols-1 md:grid-cols-2 md:border-0 border shadow-xl rounded-lg md:shadow-none bg-white p-4 mt-3 mb-3 mx-3 md:p-0 md:bg-transparent   justify-between items-center">
+            {" "}
+            <div className="flex justify-center items-center">
+              <div className="values-image object-contain">
+                <div className="bg-[#00d5b9] opacity-[.24] rounded-full w-[300px] h-[300px] absolute  blur-2xl"></div>
+                <img
+                  src="./transparent.webp"
+                  loading="lazy"
+                  width={280}
+                  alt=""
+                />
+              </div>
+            </div>
+            <div className="mt-5">
+              <h1 className="font-bold text-5xl mb-4">Transparency</h1>
+              <p className="text-md mt-2 text-zinc-600 font-sans">
+                Fostering a culture of transparency is Devsinc’s forte for its
+                resilient clients. It has helped maintain a productive and
+                qualitative relationship between the two.
+              </p>
+            </div>
+            <div></div>
+          </div>
+        </div>
+        <div className="mt-4">
+          <div className="grid grid-cols-1 md:grid-cols-2 md:border-0 border shadow-xl rounded-lg md:shadow-none bg-white p-4 mt-3 mb-3 mx-3 md:p-0 md:bg-transparent   justify-between items-center">
+            {" "}
+            <div className="mt-5">
+              <h1 className="font-bold text-5xl mb-4">Customer-Centric</h1>
+              <p className="text-md mt-2 text-zinc-600 font-sans">
+                Our one-in-all business models, dedication to quality, and
+                ownership of every project we take speak for our
+                customer-centric approach.
+              </p>
+            </div>
+            <div>
+              <div className="flex justify-center items-center">
+                <div className="values-image object-contain">
+                  <div className="bg-[#00d5b9] opacity-[.24] rounded-full w-[300px] h-[300px] absolute  blur-2xl"></div>
+                  <img src="./man.webp" loading="lazy" width={280} alt="" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="mt-4">
+          <div className="grid grid-cols-1 md:grid-cols-2 md:border-0 border shadow-xl rounded-lg md:shadow-none bg-white p-4 mt-3 mb-3 mx-3 md:p-0 md:bg-transparent   justify-between items-center">
+            {" "}
+            <div className="flex justify-center items-center">
+              <div className="values-image object-contain">
+                <div className="bg-[#00d5b9] opacity-[.24] rounded-full w-[300px] h-[300px] absolute  blur-2xl"></div>
+                <img src="./globsvg.svg" loading="lazy" width={280} alt="" />
+              </div>
+            </div>{" "}
+            <div className="mt-5">
+              <h1 className="font-bold text-5xl mb-4">Global Expansion</h1>
+              <p className="text-md mt-2 text-zinc-600 font-sans">
+                We like to play in a wider field while setting new boundaries.
+                Our online and offline teams bring the best solutions regardless
+                of where you are.
+              </p>
+            </div>
+            <div></div>
+          </div>
+        </div>
+        <div className="mt-4">
+          <div className="grid grid-cols-1 md:grid-cols-2 md:border-0 border shadow-xl rounded-lg md:shadow-none bg-white p-4 mt-3 mb-3 mx-3 md:p-0 md:bg-transparent   justify-between items-center">
+            {" "}
+            <div className="mt-5">
+              <h1 className="font-bold text-5xl mb-4">Innovation</h1>
+              <p className="text-md mt-2 text-zinc-600 font-sans">
+                There’s no use in pushing boundaries if it’s not for innovation.
+                As a software development company, we make the future a reality
+                today.
+              </p>
+            </div>
+            <div>
+              <div className="flex justify-center items-center">
+                <div className="values-image object-contain">
+                  <div className="bg-[#00d5b9] opacity-[.24] rounded-full w-[300px] h-[300px] absolute  blur-2xl"></div>
+                  <img
+                    src="https://assets-global.website-files.com/65e9d802e7334ec910a26e59/6602f055690ba8b563a686e1_Innovation.webp"
+                    loading="lazy"
+                    width={280}
+                    alt=""
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="mt-4">
+          <div className="grid grid-cols-1 md:grid-cols-2 md:border-0 border shadow-xl rounded-lg md:shadow-none bg-white p-4 mt-3 mb-3 mx-3 md:p-0 md:bg-transparent   justify-between items-center">
+            {" "}
+            <div className="mt-5">
+              <h1 className="font-bold text-5xl mb-4">Innovation</h1>
+              <p className="text-md mt-2 text-zinc-600 font-sans">
+                There’s no use in pushing boundaries if it’s not for innovation.
+                As a software development company, we make the future a reality
+                today.
+              </p>
+            </div>
+            <div>
+              <div className="flex justify-center items-center">
+                <div className="values-image object-contain">
+                  <div className="bg-[#00d5b9] opacity-[.24] rounded-full w-[300px] h-[300px] absolute  blur-2xl"></div>
+                  <img
+                    src="https://assets-global.website-files.com/65e9d802e7334ec910a26e59/6602f055690ba8b563a686e1_Innovation.webp"
+                    loading="lazy"
+                    width={280}
+                    alt=""
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
   );
