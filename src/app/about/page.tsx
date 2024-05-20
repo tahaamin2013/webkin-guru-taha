@@ -5,7 +5,7 @@ const AboutUs: React.FC = () => {
     <section>
       <div className="flex justify-between items-center flex-col md:flex-row  py-3 px-[50px]">
         <h1 className="text-3xl mb-2 md:text-5xl font-bold">
-          Our Journey to a leading{" "}
+          Our Journey to a leading
           <p className="text-primary">
             Software Development <br /> Partner
           </p>
@@ -25,11 +25,11 @@ const AboutUs: React.FC = () => {
           Our Mission
         </button>
         <div>
-          Help companies deliver{" "}
+          Help companies deliver
           <span className="text-primary">innovative technology</span> solutions
           to
           <span className="text-primary"> power their growth</span> by unlocking
-          access to passionate and experienced{" "}
+          access to passionate and experienced
           <span className="text-primary">engineers and solution providers</span>
         </div>
       </div>
@@ -38,7 +38,7 @@ const AboutUs: React.FC = () => {
           About Us
         </button>
         <h1 className="text-4xl font-bold text-[#1a0f2e]">
-          Devsinc helps start-ups, SMEs <br /> and enterprises grow their <br />{" "}
+          Devsinc helps start-ups, SMEs <br /> and enterprises grow their <br />
           business
         </h1>
         <div className="flex flex-col md:flex-row justify-between">
@@ -122,7 +122,7 @@ const AboutUs: React.FC = () => {
         </div>
         <div className="mt-4">
           <div className="grid grid-cols-1 md:grid-cols-2 md:border-0 border shadow-xl rounded-lg md:shadow-none bg-white p-4 mt-3 mb-3 mx-3 md:p-0 md:bg-transparent   justify-between items-center">
-            {" "}
+            
             <div className="flex justify-center items-center">
               <div className="values-image object-contain">
                 <div className="bg-[#00d5b9] opacity-[.24] rounded-full w-[300px] h-[300px] absolute  blur-2xl"></div>
@@ -142,7 +142,7 @@ const AboutUs: React.FC = () => {
         </div>
         <div className="mt-4">
           <div className="grid grid-cols-1 md:grid-cols-2 md:border-0 border shadow-xl rounded-lg md:shadow-none bg-white p-4 mt-3 mb-3 mx-3 md:p-0 md:bg-transparent   justify-between items-center">
-            {" "}
+            
             <div className="mt-5">
               <h1 className="font-bold text-5xl mb-4">Tenacity</h1>
               <p className="text-md mt-2 text-zinc-600 font-sans">
@@ -163,7 +163,7 @@ const AboutUs: React.FC = () => {
         </div>
         <div className="mt-4">
           <div className="grid grid-cols-1 md:grid-cols-2 md:border-0 border shadow-xl rounded-lg md:shadow-none bg-white p-4 mt-3 mb-3 mx-3 md:p-0 md:bg-transparent   justify-between items-center">
-            {" "}
+            
             <div className="flex justify-center items-center">
               <div className="values-image object-contain">
                 <div className="bg-[#00d5b9] opacity-[.24] rounded-full w-[300px] h-[300px] absolute  blur-2xl"></div>
@@ -188,7 +188,7 @@ const AboutUs: React.FC = () => {
         </div>
         <div className="mt-4">
           <div className="grid grid-cols-1 md:grid-cols-2 md:border-0 border shadow-xl rounded-lg md:shadow-none bg-white p-4 mt-3 mb-3 mx-3 md:p-0 md:bg-transparent   justify-between items-center">
-            {" "}
+            
             <div className="mt-5">
               <h1 className="font-bold text-5xl mb-4">Customer-Centric</h1>
               <p className="text-md mt-2 text-zinc-600 font-sans">
@@ -209,13 +209,13 @@ const AboutUs: React.FC = () => {
         </div>
         <div className="mt-4">
           <div className="grid grid-cols-1 md:grid-cols-2 md:border-0 border shadow-xl rounded-lg md:shadow-none bg-white p-4 mt-3 mb-3 mx-3 md:p-0 md:bg-transparent   justify-between items-center">
-            {" "}
+            
             <div className="flex justify-center items-center">
               <div className="values-image object-contain">
                 <div className="bg-[#00d5b9] opacity-[.24] rounded-full w-[300px] h-[300px] absolute  blur-2xl"></div>
                 <img src="./globsvg.svg" loading="lazy" width={280} alt="" />
               </div>
-            </div>{" "}
+            </div>
             <div className="mt-5">
               <h1 className="font-bold text-5xl mb-4">Global Expansion</h1>
               <p className="text-md mt-2 text-zinc-600 font-sans">
