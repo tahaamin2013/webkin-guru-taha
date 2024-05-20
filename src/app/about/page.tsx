@@ -291,10 +291,11 @@ const AboutUs: React.FC = () => {
               <div className="p-1 flex flex-col gap-4 text-white border border-white rounded-xl px-6 py-3 mr-[20px]">
                 <p>⭐⭐⭐⭐⭐</p>
                 <p>
-                  Thanks to Devsinc's efforts, our app looks great and delivers
-                  on customer needs. They're responsive and the client finds it
-                  easy to work with them. Their exceptional work encourages
-                  ongoing partnership, making them highly recommended.
+                  Thanks to Devsinc&lsquo;s efforts, our app looks great and
+                  delivers on customer needs. They&lsquo;re responsive and the
+                  client finds it easy to work with them. Their exceptional work
+                  encourages ongoing partnership, making them highly
+                  recommended.
                 </p>
                 <h1 className="font-bold text-xl">Andy Crebar, CEO, Sapling</h1>
               </div>
@@ -303,10 +304,11 @@ const AboutUs: React.FC = () => {
               <div className="p-1 flex flex-col gap-4 text-white border border-white rounded-xl px-6 py-3 mr-[20px]">
                 <p>⭐⭐⭐⭐⭐</p>
                 <p>
-                  Thanks to Devsinc's efforts, our app looks great and delivers
-                  on customer needs. They're responsive and the client finds it
-                  easy to work with them. Their exceptional work encourages
-                  ongoing partnership, making them highly recommended.
+                  Thanks to Devsinc&lsquo;s efforts, our app looks great and
+                  delivers on customer needs. They&lsquo;re responsive and the
+                  client finds it easy to work with them. Their exceptional work
+                  encourages ongoing partnership, making them highly
+                  recommended.
                 </p>
                 <h1 className="font-bold text-xl">Andy Crebar, CEO, Sapling</h1>
               </div>
@@ -315,10 +317,11 @@ const AboutUs: React.FC = () => {
               <div className="p-1 flex flex-col gap-4 text-white border border-white rounded-xl px-6 py-3 mr-[20px]">
                 <p>⭐⭐⭐⭐⭐</p>
                 <p>
-                  Thanks to Devsinc's efforts, our app looks great and delivers
-                  on customer needs. They're responsive and the client finds it
-                  easy to work with them. Their exceptional work encourages
-                  ongoing partnership, making them highly recommended.
+                  Thanks to Devsinc&lsquo;s efforts, our app looks great and
+                  delivers on customer needs. They&lsquo;re responsive and the
+                  client finds it easy to work with them. Their exceptional work
+                  encourages ongoing partnership, making them highly
+                  recommended.
                 </p>
                 <h1 className="font-bold text-xl">Andy Crebar, CEO, Sapling</h1>
               </div>
@@ -327,10 +330,11 @@ const AboutUs: React.FC = () => {
               <div className="p-1 flex flex-col gap-4 text-white border border-white rounded-xl px-6 py-3 mr-[20px]">
                 <p>⭐⭐⭐⭐⭐</p>
                 <p>
-                  Thanks to Devsinc's efforts, our app looks great and delivers
-                  on customer needs. They're responsive and the client finds it
-                  easy to work with them. Their exceptional work encourages
-                  ongoing partnership, making them highly recommended.
+                  Thanks to Devsinc&lsquo;s efforts, our app looks great and
+                  delivers on customer needs. They&lsquo;re responsive and the
+                  client finds it easy to work with them. Their exceptional work
+                  encourages ongoing partnership, making them highly
+                  recommended.
                 </p>
                 <h1 className="font-bold text-xl">Andy Crebar, CEO, Sapling</h1>
               </div>
@@ -339,10 +343,11 @@ const AboutUs: React.FC = () => {
               <div className="p-1 flex flex-col gap-4 text-white border border-white rounded-xl px-6 py-3 mr-[20px]">
                 <p>⭐⭐⭐⭐⭐</p>
                 <p>
-                  Thanks to Devsinc's efforts, our app looks great and delivers
-                  on customer needs. They're responsive and the client finds it
-                  easy to work with them. Their exceptional work encourages
-                  ongoing partnership, making them highly recommended.
+                  Thanks to Devsinc&lsquo;s efforts, our app looks great and
+                  delivers on customer needs. They&lsquo;re responsive and the
+                  client finds it easy to work with them. Their exceptional work
+                  encourages ongoing partnership, making them highly
+                  recommended.
                 </p>
                 <h1 className="font-bold text-xl">Andy Crebar, CEO, Sapling</h1>
               </div>
@@ -351,10 +356,11 @@ const AboutUs: React.FC = () => {
               <div className="p-1 flex flex-col gap-4 text-white border border-white rounded-xl px-6 py-3 mr-[20px]">
                 <p>⭐⭐⭐⭐⭐</p>
                 <p>
-                  Thanks to Devsinc's efforts, our app looks great and delivers
-                  on customer needs. They're responsive and the client finds it
-                  easy to work with them. Their exceptional work encourages
-                  ongoing partnership, making them highly recommended.
+                  Thanks to Devsinc&lsquo;s efforts, our app looks great and
+                  delivers on customer needs. They&lsquo;re responsive and the
+                  client finds it easy to work with them. Their exceptional work
+                  encourages ongoing partnership, making them highly
+                  recommended.
                 </p>
                 <h1 className="font-bold text-xl">Andy Crebar, CEO, Sapling</h1>
               </div>
@@ -363,10 +369,11 @@ const AboutUs: React.FC = () => {
               <div className="p-1 flex flex-col gap-4 text-white border border-white rounded-xl px-6 py-3 mr-[20px]">
                 <p>⭐⭐⭐⭐⭐</p>
                 <p>
-                  Thanks to Devsinc's efforts, our app looks great and delivers
-                  on customer needs. They're responsive and the client finds it
-                  easy to work with them. Their exceptional work encourages
-                  ongoing partnership, making them highly recommended.
+                  Thanks to Devsinc&lsquo;s efforts, our app looks great and
+                  delivers on customer needs. They&lsquo;re responsive and the
+                  client finds it easy to work with them. Their exceptional work
+                  encourages ongoing partnership, making them highly
+                  recommended.
                 </p>
                 <h1 className="font-bold text-xl">Andy Crebar, CEO, Sapling</h1>
               </div>
@@ -375,10 +382,11 @@ const AboutUs: React.FC = () => {
               <div className="p-1 flex flex-col gap-4 text-white border border-white rounded-xl px-6 py-3 mr-[20px]">
                 <p>⭐⭐⭐⭐⭐</p>
                 <p>
-                  Thanks to Devsinc's efforts, our app looks great and delivers
-                  on customer needs. They're responsive and the client finds it
-                  easy to work with them. Their exceptional work encourages
-                  ongoing partnership, making them highly recommended.
+                  Thanks to Devsinc&lsquo;s efforts, our app looks great and
+                  delivers on customer needs. They&lsquo;re responsive and the
+                  client finds it easy to work with them. Their exceptional work
+                  encourages ongoing partnership, making them highly
+                  recommended.
                 </p>
                 <h1 className="font-bold text-xl">Andy Crebar, CEO, Sapling</h1>
               </div>
@@ -387,10 +395,11 @@ const AboutUs: React.FC = () => {
               <div className="p-1 flex flex-col gap-4 text-white border border-white rounded-xl px-6 py-3 mr-[20px]">
                 <p>⭐⭐⭐⭐⭐</p>
                 <p>
-                  Thanks to Devsinc's efforts, our app looks great and delivers
-                  on customer needs. They're responsive and the client finds it
-                  easy to work with them. Their exceptional work encourages
-                  ongoing partnership, making them highly recommended.
+                  Thanks to Devsinc&lsquo;s efforts, our app looks great and
+                  delivers on customer needs. They&lsquo;re responsive and the
+                  client finds it easy to work with them. Their exceptional work
+                  encourages ongoing partnership, making them highly
+                  recommended.
                 </p>
                 <h1 className="font-bold text-xl">Andy Crebar, CEO, Sapling</h1>
               </div>
@@ -399,10 +408,11 @@ const AboutUs: React.FC = () => {
               <div className="p-1 flex flex-col gap-4 text-white border border-white rounded-xl px-6 py-3 mr-[20px]">
                 <p>⭐⭐⭐⭐⭐</p>
                 <p>
-                  Thanks to Devsinc's efforts, our app looks great and delivers
-                  on customer needs. They're responsive and the client finds it
-                  easy to work with them. Their exceptional work encourages
-                  ongoing partnership, making them highly recommended.
+                  Thanks to Devsinc&lsquo;s efforts, our app looks great and
+                  delivers on customer needs. They&lsquo;re responsive and the
+                  client finds it easy to work with them. Their exceptional work
+                  encourages ongoing partnership, making them highly
+                  recommended.
                 </p>
                 <h1 className="font-bold text-xl">Andy Crebar, CEO, Sapling</h1>
               </div>
@@ -411,10 +421,11 @@ const AboutUs: React.FC = () => {
               <div className="p-1 flex flex-col gap-4 text-white border border-white rounded-xl px-6 py-3 mr-[20px]">
                 <p>⭐⭐⭐⭐⭐</p>
                 <p>
-                  Thanks to Devsinc's efforts, our app looks great and delivers
-                  on customer needs. They're responsive and the client finds it
-                  easy to work with them. Their exceptional work encourages
-                  ongoing partnership, making them highly recommended.
+                  Thanks to Devsinc&lsquo;s efforts, our app looks great and
+                  delivers on customer needs. They&lsquo;re responsive and the
+                  client finds it easy to work with them. Their exceptional work
+                  encourages ongoing partnership, making them highly
+                  recommended.
                 </p>
                 <h1 className="font-bold text-xl">Andy Crebar, CEO, Sapling</h1>
               </div>
@@ -423,10 +434,11 @@ const AboutUs: React.FC = () => {
               <div className="p-1 flex flex-col gap-4 text-white border border-white rounded-xl px-6 py-3 mr-[20px]">
                 <p>⭐⭐⭐⭐⭐</p>
                 <p>
-                  Thanks to Devsinc's efforts, our app looks great and delivers
-                  on customer needs. They're responsive and the client finds it
-                  easy to work with them. Their exceptional work encourages
-                  ongoing partnership, making them highly recommended.
+                  Thanks to Devsinc&lsquo;s efforts, our app looks great and
+                  delivers on customer needs. They&lsquo;re responsive and the
+                  client finds it easy to work with them. Their exceptional work
+                  encourages ongoing partnership, making them highly
+                  recommended.
                 </p>
                 <h1 className="font-bold text-xl">Andy Crebar, CEO, Sapling</h1>
               </div>
@@ -435,10 +447,11 @@ const AboutUs: React.FC = () => {
               <div className="p-1 flex flex-col gap-4 text-white border border-white rounded-xl px-6 py-3 mr-[20px]">
                 <p>⭐⭐⭐⭐⭐</p>
                 <p>
-                  Thanks to Devsinc's efforts, our app looks great and delivers
-                  on customer needs. They're responsive and the client finds it
-                  easy to work with them. Their exceptional work encourages
-                  ongoing partnership, making them highly recommended.
+                  Thanks to Devsinc&lsquo;s efforts, our app looks great and
+                  delivers on customer needs. They&lsquo;re responsive and the
+                  client finds it easy to work with them. Their exceptional work
+                  encourages ongoing partnership, making them highly
+                  recommended.
                 </p>
                 <h1 className="font-bold text-xl">Andy Crebar, CEO, Sapling</h1>
               </div>
