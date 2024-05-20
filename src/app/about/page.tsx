@@ -167,7 +167,9 @@ const AboutUs: React.FC = () => {
               </div>
             </div>
             <div className="mt-5">
-              <h1 className="font-bold text-5xl mb-4">Transparency</h1>
+              <h1 className="font-bold text-4xl md:text-5xl mb-4">
+                Transparency
+              </h1>
               <p className="text-md mt-2 text-zinc-600 font-sans">
                 Fostering a culture of transparency is Devsinc&apos;s forte for
                 its resilient clients. It has helped maintain a productive and
