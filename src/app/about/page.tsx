@@ -10,7 +10,7 @@ import {
 const AboutUs: React.FC = () => {
   return (
     <section>
-      <div className="flex justify-between items-center flex-col md:flex-row  py-3 px-[50px]">
+      <div className="flex justify-between overflow-x-hidden items-center flex-col md:flex-row  py-3 px-[50px]">
         <h1 className="text-3xl mb-2 md:text-5xl font-bold">
           Our Journey to a leading
           <p className="text-primary">
@@ -286,7 +286,7 @@ const AboutUs: React.FC = () => {
           clients achieve their goals.
         </p>
         <Carousel className="w-full max-w-5xl text-black mt-3">
-          <CarouselContent className="-ml-1">
+          <CarouselContent className="-ml-1 ">
             <CarouselItem className="pl-1 md:basis-1/2 grid lg:basis-1/3">
               <div className="p-1 flex flex-col gap-4 text-white border border-white rounded-xl px-6 py-3 mr-[20px]">
                 <p>⭐⭐⭐⭐⭐</p>
@@ -458,7 +458,7 @@ const AboutUs: React.FC = () => {
             </CarouselItem>
           </CarouselContent>
           <CarouselPrevious />
-          <CarouselNext />
+          <CarouselNext className="hidden md:block pl-1" />
         </Carousel>
       </div>
     </section>
