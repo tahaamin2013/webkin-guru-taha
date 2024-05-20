@@ -72,22 +72,22 @@ const AboutUs: React.FC = () => {
           </div>
           <div className="flex flex-col gap-4">
             <p className="text-primary">
-              When you choose Devsinc, you're choosing
+              When you choose Devsinc, you&apos;re choosing
             </p>
             <h1 className="text-7xl font-bold text-[#1f1038]">Our Vision</h1>
             <p className="text-zinc-700">
-              "While Devsinc has been growing in a tech landscape for more than
-              a decade, I recognize the challenges businesses face in managing
-              digital systems. As the world transforms into a global village,
-              our vision goes beyond. We aim to reimagine IT solutions into
-              smart, agile, and AI-enhanced digital assets. '
+              &quot;While Devsinc has been growing in a tech landscape for more
+              than a decade, I recognize the challenges businesses face in
+              managing digital systems. As the world transforms into a global
+              village, our vision goes beyond. We aim to reimagine IT solutions
+              into smart, agile, and AI-enhanced digital assets.&quot;
             </p>
             <p className="text-zinc-700">
               Our commitment is to lead in the digital transformation, providing
               globally agile services to clients in different countries. In
               these times of recent changes, our ever-growing pool of resilient
               tech heads drives the IT world toward a future where innovation
-              meets the demands of an ever-evolving digital era."
+              meets the demands of an ever-evolving digital era.
             </p>
           </div>
         </div>
@@ -122,7 +122,6 @@ const AboutUs: React.FC = () => {
         </div>
         <div className="mt-4">
           <div className="grid grid-cols-1 md:grid-cols-2 md:border-0 border shadow-xl rounded-lg md:shadow-none bg-white p-4 mt-3 mb-3 mx-3 md:p-0 md:bg-transparent   justify-between items-center">
-            
             <div className="flex justify-center items-center">
               <div className="values-image object-contain">
                 <div className="bg-[#00d5b9] opacity-[.24] rounded-full w-[300px] h-[300px] absolute  blur-2xl"></div>
@@ -142,7 +141,6 @@ const AboutUs: React.FC = () => {
         </div>
         <div className="mt-4">
           <div className="grid grid-cols-1 md:grid-cols-2 md:border-0 border shadow-xl rounded-lg md:shadow-none bg-white p-4 mt-3 mb-3 mx-3 md:p-0 md:bg-transparent   justify-between items-center">
-            
             <div className="mt-5">
               <h1 className="font-bold text-5xl mb-4">Tenacity</h1>
               <p className="text-md mt-2 text-zinc-600 font-sans">
@@ -163,7 +161,6 @@ const AboutUs: React.FC = () => {
         </div>
         <div className="mt-4">
           <div className="grid grid-cols-1 md:grid-cols-2 md:border-0 border shadow-xl rounded-lg md:shadow-none bg-white p-4 mt-3 mb-3 mx-3 md:p-0 md:bg-transparent   justify-between items-center">
-            
             <div className="flex justify-center items-center">
               <div className="values-image object-contain">
                 <div className="bg-[#00d5b9] opacity-[.24] rounded-full w-[300px] h-[300px] absolute  blur-2xl"></div>
@@ -188,7 +185,6 @@ const AboutUs: React.FC = () => {
         </div>
         <div className="mt-4">
           <div className="grid grid-cols-1 md:grid-cols-2 md:border-0 border shadow-xl rounded-lg md:shadow-none bg-white p-4 mt-3 mb-3 mx-3 md:p-0 md:bg-transparent   justify-between items-center">
-            
             <div className="mt-5">
               <h1 className="font-bold text-5xl mb-4">Customer-Centric</h1>
               <p className="text-md mt-2 text-zinc-600 font-sans">
@@ -209,7 +205,6 @@ const AboutUs: React.FC = () => {
         </div>
         <div className="mt-4">
           <div className="grid grid-cols-1 md:grid-cols-2 md:border-0 border shadow-xl rounded-lg md:shadow-none bg-white p-4 mt-3 mb-3 mx-3 md:p-0 md:bg-transparent   justify-between items-center">
-            
             <div className="flex justify-center items-center">
               <div className="values-image object-contain">
                 <div className="bg-[#00d5b9] opacity-[.24] rounded-full w-[300px] h-[300px] absolute  blur-2xl"></div>
